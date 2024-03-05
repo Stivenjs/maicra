@@ -1,0 +1,8 @@
+mohist:
+  lang: en
+  check_update: true
+  check_update_auto_download: false
+  libraries:
+    check: true
+    downloadsource: MOHIST
+  installation-finished: false
